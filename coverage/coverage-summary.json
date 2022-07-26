@@ -1,0 +1,3 @@
+{"total": {"lines":{"total":17,"covered":12,"skipped":0,"pct":70.58},"statements":{"total":20,"covered":12,"skipped":0,"pct":60},"functions":{"total":3,"covered":2,"skipped":0,"pct":66.66},"branches":{"total":7,"covered":4,"skipped":0,"pct":57.14},"branchesTrue":{"total":0,"covered":0,"skipped":0,"pct":"Unknown"}}
+,"/Users/elylucas/projects/cypresstestapps/vue3-cli-code-coverage/src/components/InputField.vue": {"lines":{"total":17,"covered":12,"skipped":0,"pct":70.58},"functions":{"total":3,"covered":2,"skipped":0,"pct":66.66},"statements":{"total":20,"covered":12,"skipped":0,"pct":60},"branches":{"total":7,"covered":4,"skipped":0,"pct":57.14}}
+}
